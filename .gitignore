@@ -41,3 +41,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Altium
+History
+__Previews
+Project Logs for controlhub
+
+# vim
+*.swo
+*.swp
+*~
